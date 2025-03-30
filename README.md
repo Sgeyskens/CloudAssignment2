@@ -52,6 +52,5 @@ Before you begin, ensure you have the following installed:
   az group delete --name RG-Cloud-WEuro-02 --yes --no-wait
   ```
 
-### License
-This project is licensed under the MIT License.
-
+### credit
+This project is made by Siebe Geyskens
